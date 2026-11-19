@@ -1,3 +1,5 @@
+> **Archived:** Historical take-home assignment, preserved for reference.
+
 <img src="./logo.svg" alt="Boundless" />
 
 # Fullstack take-home assignment (Next.js)
